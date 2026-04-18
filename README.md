@@ -43,7 +43,6 @@ pdf-rag-assistant-streamlit/
 ├── .gitignore
 ├── assets/
 │   ├── demo.gif
-│   └── interface.png
 └── .streamlit/
 ```
 
