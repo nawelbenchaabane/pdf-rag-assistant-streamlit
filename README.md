@@ -25,10 +25,6 @@ If no sufficiently relevant passage is found, the assistant falls back to the mo
 
 ![Application demo](assets/demo.gif)
 
-## Interface Preview
-
-![Interface preview](assets/interface.png)
-
 ## Tech Stack
 
 - Python
