@@ -1,4 +1,3 @@
-# pdf-rag-assistant-streamlit
 # PDF RAG Assistant with Streamlit
 
 A Streamlit-based AI assistant that answers questions from uploaded PDF documents using OpenAI embeddings, FAISS, and a fallback to general LLM knowledge.
